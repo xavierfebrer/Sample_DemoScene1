@@ -62,7 +62,7 @@ bool FinalDemo::initSDL() {
 	if (SDL_Init(SDL_INIT_VIDEO) < 0) {
 		return false;
 	}
-	window = SDL_CreateWindow("PEC 1 PdEVyS", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
+	window = SDL_CreateWindow("Sample DemoScene 1", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
 	if (window == NULL) {
 		return false;
 	}

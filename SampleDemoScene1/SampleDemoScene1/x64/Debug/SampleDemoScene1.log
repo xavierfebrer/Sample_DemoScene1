@@ -1,0 +1,12 @@
+﻿  FinalDemo.cpp
+c:\users\hack2s\git\sample_demoscene1\sampledemoscene1\sampledemoscene1\instance\src\finaldemo\finaldemo.cpp(28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hack2s\git\sample_demoscene1\sampledemoscene1\sampledemoscene1\instance\src\finaldemo\finaldemo.cpp(32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hack2s\git\sample_demoscene1\sampledemoscene1\sampledemoscene1\instance\src\finaldemo\finaldemo.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hack2s\git\sample_demoscene1\sampledemoscene1\sampledemoscene1\instance\src\finaldemo\finaldemo.cpp(106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hack2s\git\sample_demoscene1\sampledemoscene1\sampledemoscene1\instance\src\finaldemo\finaldemo.cpp(105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hack2s\git\sample_demoscene1\sampledemoscene1\sampledemoscene1\instance\src\finaldemo\finaldemo.cpp(156): warning C4018: '>': signed/unsigned mismatch
+c:\users\hack2s\git\sample_demoscene1\sampledemoscene1\sampledemoscene1\instance\src\finaldemo\finaldemo.cpp(165): warning C4101: 'color': unreferenced local variable
+c:\users\hack2s\git\sample_demoscene1\sampledemoscene1\sampledemoscene1\instance\src\finaldemo\finaldemo.cpp(226): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hack2s\git\sample_demoscene1\sampledemoscene1\sampledemoscene1\instance\src\finaldemo\finaldemo.cpp(262): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hack2s\git\sample_demoscene1\sampledemoscene1\sampledemoscene1\instance\src\finaldemo\finaldemo.cpp(268): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SampleDemoScene1.vcxproj -> C:\Users\hack2s\GIT\Sample_DemoScene1\SampleDemoScene1\x64\Debug\SampleDemoScene1.exe
